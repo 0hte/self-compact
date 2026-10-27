@@ -1,0 +1,17 @@
+{
+  "name": "self-compact",
+  "metadata": {
+    "description": "self-compact: a Claude Code mod that lets Claude compact its own session."
+  },
+  "owner": {
+    "name": "0hte",
+    "url": "https://github.com/0hte"
+  },
+  "plugins": [
+    {
+      "name": "self-compact",
+      "source": "./",
+      "description": "A mod that lets Claude compact its own session when you ask it to, then pick the work back up with a follow-up prompt: plan, compact, implement, in one request."
+    }
+  ]
+}

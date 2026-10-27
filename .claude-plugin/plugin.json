@@ -1,0 +1,20 @@
+{
+  "name": "self-compact",
+  "version": "0.1.0",
+  "description": "A mod that lets Claude compact its own session when you ask it to, then pick the work back up with a follow-up prompt",
+  "author": {
+    "name": "0hte",
+    "url": "https://github.com/0hte"
+  },
+  "homepage": "https://github.com/0hte/self-compact",
+  "repository": "https://github.com/0hte/self-compact",
+  "license": "MIT",
+  "keywords": [
+    "claude-code",
+    "claude-code-mod",
+    "claude-code-plugin",
+    "compact",
+    "context",
+    "context-window"
+  ]
+}
